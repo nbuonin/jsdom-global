@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rstacruz/jsdom-global#readme",
   "devDependencies": {
-    "jsdom": "9.0.0",
+    "jsdom": "10.0.0",
     "standard": "7.0.1",
     "tape": "4.4.0"
   }
